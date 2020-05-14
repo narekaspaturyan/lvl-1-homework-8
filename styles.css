@@ -26,7 +26,7 @@ html {
 }
 
 .mail-icon {
-    background-image: url(img/mail-icon.png);
+    background-image: url(mail-icon.png);
     background-repeat: no-repeat;
     margin-top: 5px;
     height: 35px;
@@ -35,7 +35,7 @@ html {
 }
 
 .phone-icon {
-    background-image: url(img/6.png);
+    background-image: url(6.png);
     background-repeat: no-repeat;
     margin-top: 3px;
     height: 30px;
@@ -45,7 +45,7 @@ html {
 }
 
 .map-icon {
-    background-image: url(img/pngwing.com.png);
+    background-image: url(pngwing.com.png);
     background-repeat: no-repeat;
     margin-top: 4px;
     height: 35px;
@@ -90,7 +90,7 @@ html {
 
 #section {
 
-    background-image: url("img/background-pic.jpeg");
+    background-image: url("background-pic.jpeg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
